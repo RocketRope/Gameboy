@@ -1,0 +1,12 @@
+# Obj, sym and map files
+*.obj
+*.sym
+*.map
+
+# Executables
+*.exe
+*.out
+*.app
+
+# VScode folder
+.vscode/*
